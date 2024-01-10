@@ -1,0 +1,13 @@
+C:\Users\dd\source\repos\firstPractice\ReviewProblems\bin\Debug\netcoreapp3.1\ReviewProblems.exe
+C:\Users\dd\source\repos\firstPractice\ReviewProblems\bin\Debug\netcoreapp3.1\ReviewProblems.deps.json
+C:\Users\dd\source\repos\firstPractice\ReviewProblems\bin\Debug\netcoreapp3.1\ReviewProblems.runtimeconfig.json
+C:\Users\dd\source\repos\firstPractice\ReviewProblems\bin\Debug\netcoreapp3.1\ReviewProblems.runtimeconfig.dev.json
+C:\Users\dd\source\repos\firstPractice\ReviewProblems\bin\Debug\netcoreapp3.1\ReviewProblems.dll
+C:\Users\dd\source\repos\firstPractice\ReviewProblems\bin\Debug\netcoreapp3.1\ReviewProblems.pdb
+C:\Users\dd\source\repos\firstPractice\ReviewProblems\obj\Debug\netcoreapp3.1\ReviewProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dd\source\repos\firstPractice\ReviewProblems\obj\Debug\netcoreapp3.1\ReviewProblems.AssemblyInfoInputs.cache
+C:\Users\dd\source\repos\firstPractice\ReviewProblems\obj\Debug\netcoreapp3.1\ReviewProblems.AssemblyInfo.cs
+C:\Users\dd\source\repos\firstPractice\ReviewProblems\obj\Debug\netcoreapp3.1\ReviewProblems.csproj.CoreCompileInputs.cache
+C:\Users\dd\source\repos\firstPractice\ReviewProblems\obj\Debug\netcoreapp3.1\ReviewProblems.dll
+C:\Users\dd\source\repos\firstPractice\ReviewProblems\obj\Debug\netcoreapp3.1\ReviewProblems.pdb
+C:\Users\dd\source\repos\firstPractice\ReviewProblems\obj\Debug\netcoreapp3.1\ReviewProblems.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+﻿Build started at 5:43 PM...
+1>------ Build started: Project: CurdApp, Configuration: Debug Any CPU ------
+1>C:\Program Files\dotnet\sdk\8.0.100\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.EolTargetFrameworks.targets(32,5): warning NETSDK1138: The target framework 'netcoreapp3.1' is out of support and will not receive security updates in the future. Please refer to https://aka.ms/dotnet-core-support for more information about the support policy.
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>CurdApp -> D:\visual studio C# projects\CurdApp\CurdApp\bin\Debug\netcoreapp3.1\CurdApp.dll
+1>Done building project "CurdApp.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 5:43 PM and took 01.153 seconds ==========

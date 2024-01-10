@@ -1,0 +1,13 @@
+C:\Users\dd\source\repos\firstPractice\InheritencePratice\bin\Debug\netcoreapp3.1\InheritencePratice.exe
+C:\Users\dd\source\repos\firstPractice\InheritencePratice\bin\Debug\netcoreapp3.1\InheritencePratice.deps.json
+C:\Users\dd\source\repos\firstPractice\InheritencePratice\bin\Debug\netcoreapp3.1\InheritencePratice.runtimeconfig.json
+C:\Users\dd\source\repos\firstPractice\InheritencePratice\bin\Debug\netcoreapp3.1\InheritencePratice.runtimeconfig.dev.json
+C:\Users\dd\source\repos\firstPractice\InheritencePratice\bin\Debug\netcoreapp3.1\InheritencePratice.dll
+C:\Users\dd\source\repos\firstPractice\InheritencePratice\bin\Debug\netcoreapp3.1\InheritencePratice.pdb
+C:\Users\dd\source\repos\firstPractice\InheritencePratice\obj\Debug\netcoreapp3.1\InheritencePratice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dd\source\repos\firstPractice\InheritencePratice\obj\Debug\netcoreapp3.1\InheritencePratice.AssemblyInfoInputs.cache
+C:\Users\dd\source\repos\firstPractice\InheritencePratice\obj\Debug\netcoreapp3.1\InheritencePratice.AssemblyInfo.cs
+C:\Users\dd\source\repos\firstPractice\InheritencePratice\obj\Debug\netcoreapp3.1\InheritencePratice.csproj.CoreCompileInputs.cache
+C:\Users\dd\source\repos\firstPractice\InheritencePratice\obj\Debug\netcoreapp3.1\InheritencePratice.dll
+C:\Users\dd\source\repos\firstPractice\InheritencePratice\obj\Debug\netcoreapp3.1\InheritencePratice.pdb
+C:\Users\dd\source\repos\firstPractice\InheritencePratice\obj\Debug\netcoreapp3.1\InheritencePratice.genruntimeconfig.cache

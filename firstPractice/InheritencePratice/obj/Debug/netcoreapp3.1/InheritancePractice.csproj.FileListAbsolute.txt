@@ -1,0 +1,4 @@
+C:\Users\dd\source\repos\firstPractice\InheritencePratice\obj\Debug\netcoreapp3.1\InheritancePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dd\source\repos\firstPractice\InheritencePratice\obj\Debug\netcoreapp3.1\InheritancePractice.AssemblyInfoInputs.cache
+C:\Users\dd\source\repos\firstPractice\InheritencePratice\obj\Debug\netcoreapp3.1\InheritancePractice.AssemblyInfo.cs
+C:\Users\dd\source\repos\firstPractice\InheritencePratice\obj\Debug\netcoreapp3.1\InheritancePractice.csproj.CoreCompileInputs.cache

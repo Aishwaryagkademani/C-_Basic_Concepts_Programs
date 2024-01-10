@@ -1,0 +1,13 @@
+C:\Users\dd\source\repos\PersonDataManagement\PersonDataManagement\obj\Debug\netcoreapp3.1\PersonDataManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dd\source\repos\PersonDataManagement\PersonDataManagement\obj\Debug\netcoreapp3.1\PersonDataManagement.AssemblyInfoInputs.cache
+C:\Users\dd\source\repos\PersonDataManagement\PersonDataManagement\obj\Debug\netcoreapp3.1\PersonDataManagement.AssemblyInfo.cs
+C:\Users\dd\source\repos\PersonDataManagement\PersonDataManagement\obj\Debug\netcoreapp3.1\PersonDataManagement.csproj.CoreCompileInputs.cache
+C:\Users\dd\source\repos\PersonDataManagement\PersonDataManagement\bin\Debug\netcoreapp3.1\PersonDataManagement.exe
+C:\Users\dd\source\repos\PersonDataManagement\PersonDataManagement\bin\Debug\netcoreapp3.1\PersonDataManagement.deps.json
+C:\Users\dd\source\repos\PersonDataManagement\PersonDataManagement\bin\Debug\netcoreapp3.1\PersonDataManagement.runtimeconfig.json
+C:\Users\dd\source\repos\PersonDataManagement\PersonDataManagement\bin\Debug\netcoreapp3.1\PersonDataManagement.runtimeconfig.dev.json
+C:\Users\dd\source\repos\PersonDataManagement\PersonDataManagement\bin\Debug\netcoreapp3.1\PersonDataManagement.dll
+C:\Users\dd\source\repos\PersonDataManagement\PersonDataManagement\bin\Debug\netcoreapp3.1\PersonDataManagement.pdb
+C:\Users\dd\source\repos\PersonDataManagement\PersonDataManagement\obj\Debug\netcoreapp3.1\PersonDataManagement.dll
+C:\Users\dd\source\repos\PersonDataManagement\PersonDataManagement\obj\Debug\netcoreapp3.1\PersonDataManagement.pdb
+C:\Users\dd\source\repos\PersonDataManagement\PersonDataManagement\obj\Debug\netcoreapp3.1\PersonDataManagement.genruntimeconfig.cache

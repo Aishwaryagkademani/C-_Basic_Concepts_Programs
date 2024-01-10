@@ -1,0 +1,13 @@
+C:\Users\dd\source\repos\UnitTestingWithMsTesting\UnitTestingWithMsTesting\obj\Debug\netcoreapp3.1\UnitTestingWithMsTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dd\source\repos\UnitTestingWithMsTesting\UnitTestingWithMsTesting\obj\Debug\netcoreapp3.1\UnitTestingWithMsTesting.AssemblyInfoInputs.cache
+C:\Users\dd\source\repos\UnitTestingWithMsTesting\UnitTestingWithMsTesting\obj\Debug\netcoreapp3.1\UnitTestingWithMsTesting.AssemblyInfo.cs
+C:\Users\dd\source\repos\UnitTestingWithMsTesting\UnitTestingWithMsTesting\obj\Debug\netcoreapp3.1\UnitTestingWithMsTesting.csproj.CoreCompileInputs.cache
+C:\Users\dd\source\repos\UnitTestingWithMsTesting\UnitTestingWithMsTesting\bin\Debug\netcoreapp3.1\UnitTestingWithMsTesting.exe
+C:\Users\dd\source\repos\UnitTestingWithMsTesting\UnitTestingWithMsTesting\bin\Debug\netcoreapp3.1\UnitTestingWithMsTesting.deps.json
+C:\Users\dd\source\repos\UnitTestingWithMsTesting\UnitTestingWithMsTesting\bin\Debug\netcoreapp3.1\UnitTestingWithMsTesting.runtimeconfig.json
+C:\Users\dd\source\repos\UnitTestingWithMsTesting\UnitTestingWithMsTesting\bin\Debug\netcoreapp3.1\UnitTestingWithMsTesting.runtimeconfig.dev.json
+C:\Users\dd\source\repos\UnitTestingWithMsTesting\UnitTestingWithMsTesting\bin\Debug\netcoreapp3.1\UnitTestingWithMsTesting.dll
+C:\Users\dd\source\repos\UnitTestingWithMsTesting\UnitTestingWithMsTesting\bin\Debug\netcoreapp3.1\UnitTestingWithMsTesting.pdb
+C:\Users\dd\source\repos\UnitTestingWithMsTesting\UnitTestingWithMsTesting\obj\Debug\netcoreapp3.1\UnitTestingWithMsTesting.dll
+C:\Users\dd\source\repos\UnitTestingWithMsTesting\UnitTestingWithMsTesting\obj\Debug\netcoreapp3.1\UnitTestingWithMsTesting.pdb
+C:\Users\dd\source\repos\UnitTestingWithMsTesting\UnitTestingWithMsTesting\obj\Debug\netcoreapp3.1\UnitTestingWithMsTesting.genruntimeconfig.cache

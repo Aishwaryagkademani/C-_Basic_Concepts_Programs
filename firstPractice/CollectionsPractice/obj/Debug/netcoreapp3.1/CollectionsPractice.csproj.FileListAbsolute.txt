@@ -1,0 +1,13 @@
+C:\Users\dd\source\repos\firstPractice\CollectionsPractice\bin\Debug\netcoreapp3.1\CollectionsPractice.exe
+C:\Users\dd\source\repos\firstPractice\CollectionsPractice\bin\Debug\netcoreapp3.1\CollectionsPractice.deps.json
+C:\Users\dd\source\repos\firstPractice\CollectionsPractice\bin\Debug\netcoreapp3.1\CollectionsPractice.runtimeconfig.json
+C:\Users\dd\source\repos\firstPractice\CollectionsPractice\bin\Debug\netcoreapp3.1\CollectionsPractice.runtimeconfig.dev.json
+C:\Users\dd\source\repos\firstPractice\CollectionsPractice\bin\Debug\netcoreapp3.1\CollectionsPractice.dll
+C:\Users\dd\source\repos\firstPractice\CollectionsPractice\bin\Debug\netcoreapp3.1\CollectionsPractice.pdb
+C:\Users\dd\source\repos\firstPractice\CollectionsPractice\obj\Debug\netcoreapp3.1\CollectionsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dd\source\repos\firstPractice\CollectionsPractice\obj\Debug\netcoreapp3.1\CollectionsPractice.AssemblyInfoInputs.cache
+C:\Users\dd\source\repos\firstPractice\CollectionsPractice\obj\Debug\netcoreapp3.1\CollectionsPractice.AssemblyInfo.cs
+C:\Users\dd\source\repos\firstPractice\CollectionsPractice\obj\Debug\netcoreapp3.1\CollectionsPractice.csproj.CoreCompileInputs.cache
+C:\Users\dd\source\repos\firstPractice\CollectionsPractice\obj\Debug\netcoreapp3.1\CollectionsPractice.dll
+C:\Users\dd\source\repos\firstPractice\CollectionsPractice\obj\Debug\netcoreapp3.1\CollectionsPractice.pdb
+C:\Users\dd\source\repos\firstPractice\CollectionsPractice\obj\Debug\netcoreapp3.1\CollectionsPractice.genruntimeconfig.cache

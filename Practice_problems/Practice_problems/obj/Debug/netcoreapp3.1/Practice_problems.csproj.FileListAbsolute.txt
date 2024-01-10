@@ -1,0 +1,13 @@
+C:\Users\dd\source\repos\Practice_problems\Practice_problems\bin\Debug\netcoreapp3.1\Practice_problems.exe
+C:\Users\dd\source\repos\Practice_problems\Practice_problems\bin\Debug\netcoreapp3.1\Practice_problems.deps.json
+C:\Users\dd\source\repos\Practice_problems\Practice_problems\bin\Debug\netcoreapp3.1\Practice_problems.runtimeconfig.json
+C:\Users\dd\source\repos\Practice_problems\Practice_problems\bin\Debug\netcoreapp3.1\Practice_problems.runtimeconfig.dev.json
+C:\Users\dd\source\repos\Practice_problems\Practice_problems\bin\Debug\netcoreapp3.1\Practice_problems.dll
+C:\Users\dd\source\repos\Practice_problems\Practice_problems\bin\Debug\netcoreapp3.1\Practice_problems.pdb
+C:\Users\dd\source\repos\Practice_problems\Practice_problems\obj\Debug\netcoreapp3.1\Practice_problems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dd\source\repos\Practice_problems\Practice_problems\obj\Debug\netcoreapp3.1\Practice_problems.AssemblyInfoInputs.cache
+C:\Users\dd\source\repos\Practice_problems\Practice_problems\obj\Debug\netcoreapp3.1\Practice_problems.AssemblyInfo.cs
+C:\Users\dd\source\repos\Practice_problems\Practice_problems\obj\Debug\netcoreapp3.1\Practice_problems.csproj.CoreCompileInputs.cache
+C:\Users\dd\source\repos\Practice_problems\Practice_problems\obj\Debug\netcoreapp3.1\Practice_problems.dll
+C:\Users\dd\source\repos\Practice_problems\Practice_problems\obj\Debug\netcoreapp3.1\Practice_problems.pdb
+C:\Users\dd\source\repos\Practice_problems\Practice_problems\obj\Debug\netcoreapp3.1\Practice_problems.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\dd\source\repos\firstPractice\PolymorphismProblems\bin\Debug\netcoreapp3.1\PolymorphismProblems.exe
+C:\Users\dd\source\repos\firstPractice\PolymorphismProblems\bin\Debug\netcoreapp3.1\PolymorphismProblems.deps.json
+C:\Users\dd\source\repos\firstPractice\PolymorphismProblems\bin\Debug\netcoreapp3.1\PolymorphismProblems.runtimeconfig.json
+C:\Users\dd\source\repos\firstPractice\PolymorphismProblems\bin\Debug\netcoreapp3.1\PolymorphismProblems.runtimeconfig.dev.json
+C:\Users\dd\source\repos\firstPractice\PolymorphismProblems\bin\Debug\netcoreapp3.1\PolymorphismProblems.dll
+C:\Users\dd\source\repos\firstPractice\PolymorphismProblems\bin\Debug\netcoreapp3.1\PolymorphismProblems.pdb
+C:\Users\dd\source\repos\firstPractice\PolymorphismProblems\obj\Debug\netcoreapp3.1\PolymorphismProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dd\source\repos\firstPractice\PolymorphismProblems\obj\Debug\netcoreapp3.1\PolymorphismProblems.AssemblyInfoInputs.cache
+C:\Users\dd\source\repos\firstPractice\PolymorphismProblems\obj\Debug\netcoreapp3.1\PolymorphismProblems.AssemblyInfo.cs
+C:\Users\dd\source\repos\firstPractice\PolymorphismProblems\obj\Debug\netcoreapp3.1\PolymorphismProblems.csproj.CoreCompileInputs.cache
+C:\Users\dd\source\repos\firstPractice\PolymorphismProblems\obj\Debug\netcoreapp3.1\PolymorphismProblems.dll
+C:\Users\dd\source\repos\firstPractice\PolymorphismProblems\obj\Debug\netcoreapp3.1\PolymorphismProblems.pdb
+C:\Users\dd\source\repos\firstPractice\PolymorphismProblems\obj\Debug\netcoreapp3.1\PolymorphismProblems.genruntimeconfig.cache
