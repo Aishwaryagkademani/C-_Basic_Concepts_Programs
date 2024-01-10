@@ -1,0 +1,1 @@
+[{"CustomerName":"John","Email":"john12@gmail.com","Age":33,"TotalSales":40000.0,"FinalPurchaseDate":"2021-03-29T00:00:00"},{"CustomerName":"George","Email":"gorge34@gmail.com","Age":45,"TotalSales":6000.0,"FinalPurchaseDate":"2021-02-12T00:00:00"},{"CustomerName":"Peter","Email":"peter@gmail.com","Age":32,"TotalSales":2000.0,"FinalPurchaseDate":"2021-01-10T00:00:00"}]
